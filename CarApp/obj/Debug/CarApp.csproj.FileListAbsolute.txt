@@ -1,0 +1,6 @@
+c:\users\maryna\documents\visual studio 2013\Projects\CarApp\CarApp\bin\Debug\CarApp.exe.config
+c:\users\maryna\documents\visual studio 2013\Projects\CarApp\CarApp\bin\Debug\CarApp.exe
+c:\users\maryna\documents\visual studio 2013\Projects\CarApp\CarApp\bin\Debug\CarApp.pdb
+c:\users\maryna\documents\visual studio 2013\Projects\CarApp\CarApp\obj\Debug\CarApp.csprojResolveAssemblyReference.cache
+c:\users\maryna\documents\visual studio 2013\Projects\CarApp\CarApp\obj\Debug\CarApp.exe
+c:\users\maryna\documents\visual studio 2013\Projects\CarApp\CarApp\obj\Debug\CarApp.pdb
