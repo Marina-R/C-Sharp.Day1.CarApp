@@ -10,13 +10,13 @@ namespace CarApp
     {
         static void Main(string[] args)
         {
-            var BMW = new Car();
-            BMW.startTheCar();
-            BMW.makeATurn();
-            BMW.year = 2010;
-            BMW.color = "Red";
-
-            //how to use a static method?
+            MyCar bmw = new MyCar();
+            bmw.StartTheCar();
+            bmw.MakeATurn();
+            bmw.Year = 2010;
+            bmw.Color = "Red";
+            MyCar.DriveTheCar();
+            MyCar.MakeASound();
         }
     }
 }

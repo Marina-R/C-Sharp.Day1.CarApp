@@ -6,26 +6,26 @@ using System.Threading.Tasks;
 
 namespace CarApp
 {
-    class Car
+    class MyCar
     {
-        public string color { get; set; }
-        public int year { get; set; }
-        public void startTheCar()
+        public string Color { get; set; }
+        public int Year { get; set; }
+        public void StartTheCar()
         {
             Console.WriteLine("My engine has started!!!");
         }
-        public static void makeASound() 
+        public static void MakeASound() 
         {
             Console.WriteLine("Beep Beep!");
         }
-        public void makeATurn() 
+        public void MakeATurn() 
         {
             for(int i = 0; i < 10; i++)
             {
                 Console.WriteLine("I am turning left!");
             }
         }
-        public static void driveTheCar()
+        public static void DriveTheCar()
         {
             Console.Write("Please enter the number between 1-4 to drive a car");
             int userChoice = int.Parse(Console.ReadLine());
